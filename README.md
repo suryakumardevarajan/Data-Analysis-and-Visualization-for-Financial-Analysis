@@ -11,7 +11,7 @@ Data visualization: Seaborn, Matplotlib and Plotly
 
 
 The list of the stocks considered:
-AAPL = Apple Stock, \n
+AAPL = Apple Stock, 
 BA = Boeing, 
 T = AT&T,
 MGM = MGM Resorts International,
