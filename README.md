@@ -11,13 +11,13 @@ Data visualization: Seaborn, Matplotlib and Plotly
 
 
 The list of the stocks considered:
-AAPL = Apple Stock 
-BA = Boeing 
-T = AT&T
-MGM = MGM Resorts International
-AMZN = Amazon
-IBM = IBM
-TSLA = Tesla Motors
-GOOG = Google 
+AAPL = Apple Stock, 
+BA = Boeing, 
+T = AT&T,
+MGM = MGM Resorts International,
+AMZN = Amazon,
+IBM = IBM,
+TSLA = Tesla Motors,
+GOOG = Google,
 sp500 = US Stock Market (S&P 500 is a stock market index that measures the stock performance of 500 large companies listed on U.S. stock exchange.
 
